@@ -1,3 +1,7 @@
+###
+This is the original Read-me from the official MIT's xv6 OS.To read about the extensions added, pls refer to the file :-Readme_report.pdf
+###
+
 NOTE: we have stopped maintaining the x86 version of xv6, and switched
 our efforts to the RISC-V version
 (https://github.com/mit-pdos/xv6-riscv.git)
