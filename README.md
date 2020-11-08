@@ -38,14 +38,14 @@
 ## Scheduling Policies Implemented:
 
 ### 1. FCFS Scheduling
-
+```
 - In FCFS scheduling, the scheduler picks the process with the lowest ctime(creation
     time) by iterating on the proc table’s runnable processes and runs it.
 
 
 - As the scheduling needs to be non-preemptive, the yield() call should not be called
     trap.c if the scheduling policy is FCFS non-preemtive
-
+```
 ### 2. PBS Scheduling
 
 ```
